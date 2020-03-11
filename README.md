@@ -13,4 +13,5 @@ Tough cloth for belt
 ### Little mechanisms:
 photointerrupter to prevent damage
 
-[Schedule](https://calendar.google.com/calendarcid=Y2hhcmxvdHRlc3ZpbGxlc2Nob29scy5vcmdfdGpqMmEzdGlvODk3Mm4xOTlqYzZuZG1lczBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).
+[Project Calendar]
+(https://calendar.google.com/calendar?cid=Y2hhcmxvdHRlc3ZpbGxlc2Nob29scy5vcmdfdGpqMmEzdGlvODk3Mm4xOTlqYzZuZG1lczBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).

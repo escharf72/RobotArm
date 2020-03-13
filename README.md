@@ -16,6 +16,13 @@ The project is a claw machine that moves a claw in the x, y, and z planes with a
 [Project Calendar](https://calendar.google.com/calendar?cid=Y2hhcmxvdHRlc3ZpbGxlc2Nob29scy5vcmdfdGpqMmEzdGlvODk3Mm4xOTlqYzZuZG1lczBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).
 
 ### Planning pictures:
+<img src="https://github.com/escharf72/RobotArm/blob/master/Media/IMG_5618.jpeg" width="500">
+<img src="https://github.com/escharf72/RobotArm/blob/master/Media/IMG_5620.jpeg" width="500">
+<img src="https://github.com/escharf72/RobotArm/blob/master/Media/IMG_5621.jpeg" width="500">
+<img src="https://github.com/escharf72/RobotArm/blob/master/Media/IMG_5622.jpeg" width="500">
+<img src="https://github.com/escharf72/RobotArm/blob/master/Media/IMG_5728.jpeg" width="500">
+<img src="https://github.com/escharf72/RobotArm/blob/master/Media/IMG_5729.jpeg" width="500">
+<img src="https://github.com/escharf72/RobotArm/blob/master/Media/IMG_5740.jpeg" width="500">
 
 ## Winding Mechanism:
 

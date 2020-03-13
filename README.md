@@ -22,5 +22,13 @@ The project is a claw machine that moves a claw in the x, y, and z planes with a
 ## Belt:
 
 ## Claw Mechanism:
+<img src="https://github.com/escharf72/RobotArm/blob/master/Media/Claw%20Assembly%201.PNG" width="500">
+<img src="https://github.com/escharf72/RobotArm/blob/master/Media/Claw%20Assembly%202.PNG" width="500">
+<img src="https://github.com/escharf72/RobotArm/blob/master/Media/Claw%20Assembly%203.PNG" width="500">
+<img src="https://github.com/escharf72/RobotArm/blob/master/Media/Claw%20box1.PNG" width="500">
+<img src="https://github.com/escharf72/RobotArm/blob/master/Media/Claw%20box2.PNG" width="500">
+<img src="https://github.com/escharf72/RobotArm/blob/master/Media/Claw-scoop%20assembly.PNG" width="500">
+<img src="https://github.com/escharf72/RobotArm/blob/master/Media/Servo%20holder.PNG" width="500">
+<img src="https://github.com/escharf72/RobotArm/blob/master/Media/Winding%20wheel.PNG" width="500">
 
 ## Rack and Pinion:

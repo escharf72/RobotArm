@@ -31,7 +31,7 @@ The project is a claw machine that moves a claw in the x, y, and z planes with a
 ## Claw Mechanism:
 The claw mechanism is comprised of a base with a servo holder on it that controls the two parts of the claw, causing it to open and close. It will be hung from the winding mechanism, allowing it to go up and down for the z axis of the claw machine. 
 The parts of the claw have a unique design that limits the density of material but is still structurally sound. Attached are scoops that will help to grasp the candy in the machine. They each have a hook so that I can put a rubber band between the two of them. The rubber band will act as a counter to the pull of the servo and strings to open the claw. 
-<img src="https://github.com/escharf72/RobotArm/blob/master/Media/Claw%20Assembly%201.PNG" width="500">
+<img src="https://github.com/escharf72/RobotArm/blob/master/Media/Screenshot%202020-03-16%20at%2010.31.10%20AM.png" width="500">
 <img src="https://github.com/escharf72/RobotArm/blob/master/Media/Claw%20Assembly%202.PNG" width="500">
 <img src="https://github.com/escharf72/RobotArm/blob/master/Media/Claw%20Assembly%203.PNG" width="500">
 <img src="https://github.com/escharf72/RobotArm/blob/master/Media/Claw%20box1.PNG" width="500">

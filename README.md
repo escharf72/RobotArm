@@ -33,11 +33,11 @@ The claw mechanism is comprised of a base with a servo holder on it that control
 The parts of the claw have a unique design that limits the density of material but is still structurally sound. Attached are scoops that will help to grasp the candy in the machine. They each have a hook so that I can put a rubber band between the two of them. The rubber band will act as a counter to the pull of the servo and strings to open the claw. 
    [Annotated Assembly] <img src="https://github.com/escharf72/RobotArm/blob/master/Media/Screenshot%202020-03-16%20at%2010.31.10%20AM.png" width="500">
 <img src="https://github.com/escharf72/RobotArm/blob/master/Media/Claw%20Assembly%202.PNG" width="500"> [Top view]
-Back view of assembly <img src="https://github.com/escharf72/RobotArm/blob/master/Media/Claw%20Assembly%203.PNG" width="500">
-<img src="https://github.com/escharf72/RobotArm/blob/master/Media/Claw%20box1.PNG" width="500">
-<img src="https://github.com/escharf72/RobotArm/blob/master/Media/Claw%20box2.PNG" width="500">
-<img src="https://github.com/escharf72/RobotArm/blob/master/Media/Claw-scoop%20assembly.PNG" width="500">
-<img src="https://github.com/escharf72/RobotArm/blob/master/Media/Servo%20holder.PNG" width="500">
-<img src="https://github.com/escharf72/RobotArm/blob/master/Media/Winding%20wheel.PNG" width="500">
+  [Back view of assembly] <img src="https://github.com/escharf72/RobotArm/blob/master/Media/Claw%20Assembly%203.PNG" width="500">
+<img src="https://github.com/escharf72/RobotArm/blob/master/Media/Claw%20box1.PNG" width="500"> [Base- top view]
+  [Base- underneath] <img src="https://github.com/escharf72/RobotArm/blob/master/Media/Claw%20box2.PNG" width="500">
+<img src="https://github.com/escharf72/RobotArm/blob/master/Media/Claw-scoop%20assembly.PNG" width="500"> [Claw-scoop assembly] 
+  [Servo holder- goes above base] <img src="https://github.com/escharf72/RobotArm/blob/master/Media/Servo%20holder.PNG" width="500">
+<img src="https://github.com/escharf72/RobotArm/blob/master/Media/Winding%20wheel.PNG" width="500"> [Winding wheel]
 
 ## Rack and Pinion:

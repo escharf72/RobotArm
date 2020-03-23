@@ -1,4 +1,4 @@
-# RobotArm
+# Robot Arm
 ## Planning
 ### Project description:
 The project is a claw machine that moves a claw in the x, y, and z planes with a joystick and allows the user to pick up pieces of candy at the bottom of the box.

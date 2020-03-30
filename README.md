@@ -43,3 +43,10 @@ The parts of the claw have a unique design that limits the density of material b
 <img src="https://github.com/escharf72/RobotArm/blob/master/Media/Winding%20wheel.PNG" width="500"> [Winding wheel]
 
 ## Rack and Pinion:
+
+
+### Robot Arm Project
+## What we finished
+In the time that we had in the lab, we were able to finish a claw, a belt, and a winding mechanism. The claw ws not connected, but was able to open and close upon the activation of the servo that sat on top of the base. The claw had strings that would allow it to hang from the winding mechanism and move up and down. The winding mechanism was a part we had used in our project last year that we scaled and adapted to fit this project. It consists of servos, gears, and an axle that turned , winding a string. Eve added custom laser cut and 3D printed parts on the top that allowed it to slide into a track on the bottom of the belt. As the belt, powered by servos with ridged axles, turned, it would bring the winding mechanism along within, thus providing the left-to-right motion in our claw machine.
+## What could have been/hopefully will be
+We did not have the chance to create the rack-and-pinion system that would have provided the y direction of motion for the claw, but Immie had begun working on the planning for that after finishing the belt We also did not get to finish the joystick, though Eve's design in Solidworks was mostly done when we had to leave. The last part of this project would have been all of the coding and wiring aspects to combine the many servos and sensors. Elisabeth had begun to brainstorm about the code and start compiling old codes into something that would be a helpful start to the code for the project. 

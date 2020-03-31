@@ -28,6 +28,12 @@ The project is a claw machine that moves a claw in the x, y, and z planes with a
 
 ## Belt:
 The belt moves the claw left to right and will be connected to the rack and pinion that will move it front to back. The belt is an assembly made up of a belt on axles with a servo connected to one to drive the movement. Connected to the belt is the winding mechanism that rides on a piece of acrylic to keep it from pulling down to much. On the top is the connection to the rack and pinon to move front and back. This piece is 3D printed and holds a servo and gear. The belt is 3D printer belt and the axles are made to perfectly mesh using pitch. The connection from belt to winding mechanism is a 3D printed piece with bars coming up and to the side that slide along the walls to keep the winding mechanism straight. 
+<img src="https://github.com/escharf72/RobotArm/blob/master/Media/beltbirdseye.png" width="500"> [Birdseye View]
+<img src="https://github.com/escharf72/RobotArm/blob/master/Media/beltbirdseyewithwinding.png" width="500"> [Birdseye View + Winding]
+<img src="https://github.com/escharf72/RobotArm/blob/master/Media/beltlandscape.png" width="500"> [Landscape View of Belt]
+<img src="https://github.com/escharf72/RobotArm/blob/master/Media/connectiontoR+P.png" width="500"> [Connection Piece to Rack and Pinion]
+<img src="https://github.com/escharf72/RobotArm/blob/master/Media/okraaxle.png" width="500"> [Axle Piece]
+<img src="https://github.com/escharf72/RobotArm/blob/master/Media/servoslider.png" width="500"> [Servo Slider to connect to Axle]
 
 ## Claw Mechanism:
 The claw mechanism is comprised of a base with a servo holder on it that controls the two parts of the claw, causing it to open and close. It will be hung from the winding mechanism, allowing it to go up and down for the z axis of the claw machine. 
